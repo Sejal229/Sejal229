@@ -8,7 +8,7 @@ I am a results-driven Data Analyst passionate about transforming complex dataset
 ## 🛠️ My Technical Toolkit
 * **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, DAX
 * **Data Visualization:** Power BI, Tableau, Excel (Advanced)
-* **Domains:** Retail Analytics, Supply Chain, Fintech, E-commerce
+* **Domains:** Retail Analytics, Supply Chain, E-commerce
 * **Core Skills:** Statistical Analysis, Data Cleaning (ETL), Business Intelligence, Stakeholder Reporting
 
 ---
