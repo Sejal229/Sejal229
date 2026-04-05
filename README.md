@@ -14,7 +14,7 @@ I am a results-driven Data Analyst passionate about transforming complex dataset
 ---
 
 ## 🚀 Featured Project: FashionWave Retail Analytics
-**[View Project Here](LINK_TO_YOUR_FASHIONWAVE_REPO)**
+**[View Project Here](https://github.com/Sejal229/FashionWave-Retail-Analytics)**
 * **The Challenge:** Analyzing 302k+ transactions to find hidden losses.
 * **The Insight:** Identified **1,307 products** selling below cost, resulting in immediate margin recovery recommendations.
 * **Tools:** Python (EDA), Power BI (Interactive Dashboards), DAX (Margin Logic).
@@ -28,5 +28,5 @@ I am a results-driven Data Analyst passionate about transforming complex dataset
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/your-profile](YOUR_LINKEDIN_URL)
+* **LinkedIn:** (https://www.linkedin.com/in/sejal-jain-414622202/)
 * **Portfolio:** Check out my pinned repositories below! 👇
